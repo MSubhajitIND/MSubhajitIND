@@ -27,10 +27,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MSubhajitIND"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MSubhajitIND"/></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/MSubhajitIND"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MSubhajitIND"/></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msubhajitind&show_icons=true&locale=en&theme=algolia" alt="msubhajitind" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msubhajitind&show_icons=true&locale=en&layout=compact&theme=algolia" alt="msubhajitind" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msubhajitind&show_icons=true&locale=en&layout=compact&theme=algolia" alt="msubhajitind" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=algolia" alt="msubhajitind" /></p>
+
+[![An image of @msubhajitind's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msubhajitind)](https://holopin.io/@msubhajitind)
