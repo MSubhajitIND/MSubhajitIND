@@ -1,11 +1,16 @@
-[![MasterHead](https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/Main/banner.jpg)](https://www.github.com/MSubhajitIND)
-<h1 align="center">Hello 👋, I'm Subhajit Mondal</h1>
-<h3 align="center">A Technology Lover and Passionate Developer</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/f44ab736da34fca35afda1da7f99ea004d8b7d36/name.svg" alt="Subhajit Mondal" />
+</h1>
+<h3 align="center">Hello 👋, I'm Subhajit Mondal. A Technology Lover and Passionate Developer From India</h3>
+
+<p align="center">
+<a href="https://twitter.com/msubhajitind" target="blank"><img src="https://img.shields.io/twitter/follow/msubhajitind?logo=twitter&style=for-the-badge" alt="msubhajitind" /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=msubhajitind&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="msubhajitind" />
+</p>
+
+<hr>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/Main/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msubhajitind&label=Profile%20views&color=0e75b6&style=flat" alt="msubhajitind" /> </p>
-
-<p align="left"> <a href="https://twitter.com/msubhajitind" target="blank"><img src="https://img.shields.io/twitter/follow/msubhajitind?logo=twitter&style=for-the-badge" alt="msubhajitind" /></a> </p>
 
 - 🔭 I’m currently working on **AI and Tech Startups**
 
@@ -14,6 +19,8 @@
 - 💬 Ask me about **Android, Mern, C, C++, Python, Java**
 
 - 📫 Reach me via **Social Media Links Given Below**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
