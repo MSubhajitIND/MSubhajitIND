@@ -163,9 +163,12 @@
 
 <hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=msubhajitind&show_icons=true&locale=en&theme=algolia" alt="msubhajitind width="100" height="100"" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=msubhajitind&show_icons=true&locale=en&layout=compact&theme=algolia" alt="msubhajitind width="100" height="100"" /></p>
+<a href="https://github.com/MSubhajitIND">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MSubhajitIND&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" height="192px" alt="msubhajitind"/></a>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=algolia" alt="msubhajitind width="100" height="100"" /></p>
+<a href="https://github.com/MSubhajitIND"><img src="https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=algolia" height="192px" alt="msubhajitind"/></a>
+<br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=msubhajitind&show_icons=true&locale=en&layout=compact&theme=algolia" alt="msubhajitind"/></p>
 
