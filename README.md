@@ -69,7 +69,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 
 
   
@@ -105,7 +105,7 @@
 
   
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
@@ -125,7 +125,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://github.com/MSubhajitIND/MSubhajitIND/blob/Main/Logos/flask.svg" alt="flask" width="40" height="40"/>
 
 
   
@@ -139,15 +139,15 @@
  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/photoshop.svg" alt="photoshop" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/latex-original.svg" alt="Latex" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt="Markdown" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/markdown-original.svg" alt="Markdown" width="40" height="40"/>
 
 
 
