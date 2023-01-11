@@ -161,6 +161,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MSubhajitIND"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MSubhajitIND"/></a></p><br><br><br>
 
+<hr>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=msubhajitind&show_icons=true&locale=en&theme=algolia" alt="msubhajitind width="100" height="100"" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=msubhajitind&show_icons=true&locale=en&layout=compact&theme=algolia" alt="msubhajitind width="100" height="100"" /></p>
