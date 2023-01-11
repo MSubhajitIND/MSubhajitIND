@@ -163,11 +163,11 @@
 
 <hr>
 
-
-<a href="https://github.com/MSubhajitIND"><img alt="MSubhajitIND's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MSubhajitIND&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" height="192px"/></a>
-<a href="https://github.com/MSubhajitIND"><img alt="MSubhajitIND's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSubhajitIND&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/></a>
-<br/>
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=algolia" height="192px" alt="msubhajitind"/></p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSubhajitIND&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSubhajitIND&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSubhajitIND&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSubhajitIND&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSubhajitIND&theme=dracula&utcOffset=8)
+|![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=MSubhajitIND&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=dracula)|
+| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSubhajitIND&langs_count=8&layout=compact&theme=dracula&hide_border=true)
