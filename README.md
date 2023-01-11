@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/f44ab736da34fca35afda1da7f99ea004d8b7d36/name.svg" alt="Subhajit Mondal" />
 </h1>
-<h3 align="center">Hello 👋, I'm Subhajit Mondal. A Technology Lover and Passionate Developer From India</h3>
+<h3 align="center">Hello 👋, I'm Subhajit Mondal. A Technology Lover and Passionate Developer From India.</h3>
 
 <p align="center">
 <a href="https://twitter.com/msubhajitind" target="blank"><img src="https://img.shields.io/twitter/follow/msubhajitind?logo=twitter&color=00acee&style=for-the-badge" alt="msubhajitind" /> </a>
