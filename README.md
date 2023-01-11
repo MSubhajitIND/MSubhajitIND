@@ -4,7 +4,7 @@
 <h3 align="center">Hello 👋, I'm Subhajit Mondal. A Technology Lover and Passionate Developer From India.</h3>
 
 <p align="center">
-<a href="https://twitter.com/msubhajitind" target="blank"><img src="https://img.shields.io/twitter/follow/msubhajitind?logo=twitter&color=00acee&style=for-the-badge" alt="msubhajitind?cacheSeconds=3600" /> </a>
+<a href="https://twitter.com/msubhajitind" target="blank"><img src="https://img.shields.io/twitter/follow/msubhajitind?logo=twitter&color=00acee&style=for-the-badge?cacheSeconds=3600" alt="msubhajitind" /> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=msubhajitind&label=Profile%20views&color=00acee&style=for-the-badge?cacheSeconds=3600" alt="msubhajitind" />
 </p>
