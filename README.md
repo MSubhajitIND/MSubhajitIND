@@ -175,6 +175,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSubhajitIND&theme=dracula" alt="msubhajitind"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSubhajitIND&theme=dracula" alt="msubhajitind"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSubhajitIND&theme=dracula&utcOffset=8" alt="msubhajitind"/>
-<img align="center" src="http://msubhajitind-github-readme-stats.vercel.ap/api/top-langs/?username=MSubhajitIND&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="msubhajitind"/>
+<img align="center" src="https://msubhajitind-github-readme-stats.vercel.app/api/top-langs/?username=MSubhajitIND&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="msubhajitind"/>
 
 </p>
