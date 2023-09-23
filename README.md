@@ -12,7 +12,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/Main/coding.gif">
 
-- 🔭 I’m currently working on **AI and Tech Startups**
+- 🔭 I’m currently working on **AI and ML**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
