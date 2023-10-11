@@ -163,6 +163,10 @@
 
 <hr>
 
+[![An image of @msubhajitind's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msubhajitind)](https://holopin.io/@msubhajitind)
+
+<hr>
+
 |![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=MSubhajitIND&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=msubhajitind&theme=dracula)|
 | ------------- | ------------- |
 
