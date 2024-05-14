@@ -99,7 +99,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 
 
   
@@ -138,12 +137,6 @@
  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/photoshop.svg" alt="photoshop" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-
 <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/latex-original.svg" alt="Latex" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/6e62179766e4240e95caa47bb557268c3a73103c/Logos/markdown-original.svg" alt="Markdown" width="40" height="40"/>
@@ -155,10 +148,6 @@
 </p>
  
   
-<hr>
-  
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MSubhajitIND"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MSubhajitIND"/></a></p><br><br><br>
 
 <hr>
 
