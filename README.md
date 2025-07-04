@@ -20,6 +20,8 @@
 
 - 📫 Reach me via **Social Media Links Given Below**
 
+- Email Me 👉 ✉️ <a href="mailto:subhajitmondal.ind@gmail.com"> subhajitmondal.ind@gmail.com <a>
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
